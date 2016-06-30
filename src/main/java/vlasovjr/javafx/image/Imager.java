@@ -35,4 +35,8 @@ public class Imager{
         return imageView;
     }
 
+    public ImageView getImageView(){
+        return new ImageView(image);
+    }
+
 }
