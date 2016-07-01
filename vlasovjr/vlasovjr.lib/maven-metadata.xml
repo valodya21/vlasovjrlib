@@ -4,9 +4,8 @@
   <artifactId>vlasovjr.lib</artifactId>
   <versioning>
     <versions>
-      <version>0.0.1-SNAPSHOT</version>
-      <version>0.0.2-SNAPSHOT</version>
+      <version>0.0.3a-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160630130106</lastUpdated>
+    <lastUpdated>20160701083931</lastUpdated>
   </versioning>
 </metadata>
