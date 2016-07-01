@@ -18,7 +18,7 @@ add to your pow.xml file
     <dependency>
       <groupId>vlasovjr</groupId>
       <artifactId>vlasovjr.lib</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
+      <version>0.0.3a-SNAPSHOT</version>
     </dependency>
   </dependencies>
 ```
