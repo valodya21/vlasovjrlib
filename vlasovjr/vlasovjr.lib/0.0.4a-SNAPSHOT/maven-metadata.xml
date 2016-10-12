@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>vlasovjr</groupId>
   <artifactId>vlasovjr.lib</artifactId>
-  <version>0.0.3a-SNAPSHOT</version>
+  <version>0.0.4a-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20160701.083931</timestamp>
+      <timestamp>20161012.191650</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20160701083931</lastUpdated>
+    <lastUpdated>20161012191650</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.3a-20160701.083931-1</value>
-        <updated>20160701083931</updated>
+        <value>0.0.4a-20161012.191650-1</value>
+        <updated>20161012191650</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.3a-20160701.083931-1</value>
-        <updated>20160701083931</updated>
+        <value>0.0.4a-20161012.191650-1</value>
+        <updated>20161012191650</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
