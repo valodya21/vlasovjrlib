@@ -13,12 +13,12 @@ add to your pow.xml file
       </snapshots>
     </repository>
   </repositories>
-  
+
   <dependencies>
     <dependency>
       <groupId>vlasovjr</groupId>
       <artifactId>vlasovjr.lib</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
+      <version>0.0.4a-SNAPSHOT</version>
     </dependency>
   </dependencies>
 ```
